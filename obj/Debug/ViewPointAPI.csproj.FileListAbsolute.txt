@@ -1,0 +1,243 @@
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\ApplicationInsights.config
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\roslyn\csc.exe
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\roslyn\vbc.exe
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\ViewPointAPI.dll.config
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\ViewPointAPI.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\ViewPointAPI.pdb
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Antlr3.Runtime.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\EntityFramework.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AI.Web.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Newtonsoft.Json.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Owin.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Cors.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Helpers.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Http.Cors.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Http.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Http.Owin.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Mvc.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Optimization.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Razor.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.WebPages.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\WebGrease.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AI.Web.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Helpers.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Http.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Http.Cors.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Http.Owin.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Mvc.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Razor.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.WebPages.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Newtonsoft.Json.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\System.Web.Optimization.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\EntityFramework.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\bin\ko\System.Web.Http.Cors.resources.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\obj\Debug\ViewPointAPI.csprojResolveAssemblyReference.cache
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\obj\Debug\ViewPointAPI.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\ViewPointAPI\ViewPointAPI\obj\Debug\ViewPointAPI.pdb
+C:\inetpub\wwwroot\API\bin\ApplicationInsights.config
+C:\inetpub\wwwroot\API\bin\roslyn\csc.exe
+C:\inetpub\wwwroot\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\inetpub\wwwroot\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\inetpub\wwwroot\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\inetpub\wwwroot\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\inetpub\wwwroot\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\inetpub\wwwroot\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\inetpub\wwwroot\API\bin\roslyn\System.Collections.Immutable.dll
+C:\inetpub\wwwroot\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\inetpub\wwwroot\API\bin\roslyn\vbc.exe
+C:\inetpub\wwwroot\API\bin\roslyn\VBCSCompiler.exe
+C:\inetpub\wwwroot\API\bin\roslyn\VBCSCompiler.exe.config
+C:\inetpub\wwwroot\API\bin\ViewPointAPI.dll.config
+C:\inetpub\wwwroot\API\bin\ViewPointAPI.dll
+C:\inetpub\wwwroot\API\bin\ViewPointAPI.pdb
+C:\inetpub\wwwroot\API\bin\Antlr3.Runtime.dll
+C:\inetpub\wwwroot\API\bin\EntityFramework.dll
+C:\inetpub\wwwroot\API\bin\EntityFramework.SqlServer.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.AI.DependencyCollector.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.AI.Web.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.AI.WindowsServer.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.ApplicationInsights.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.AspNet.Identity.Core.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.Cookies.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.Facebook.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.Google.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.OAuth.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.Twitter.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.Web.Infrastructure.dll
+C:\inetpub\wwwroot\API\bin\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\API\bin\Owin.dll
+C:\inetpub\wwwroot\API\bin\System.Net.Http.Formatting.dll
+C:\inetpub\wwwroot\API\bin\System.Web.Cors.dll
+C:\inetpub\wwwroot\API\bin\System.Web.Helpers.dll
+C:\inetpub\wwwroot\API\bin\System.Web.Http.Cors.dll
+C:\inetpub\wwwroot\API\bin\System.Web.Http.dll
+C:\inetpub\wwwroot\API\bin\System.Web.Http.Owin.dll
+C:\inetpub\wwwroot\API\bin\System.Web.Http.WebHost.dll
+C:\inetpub\wwwroot\API\bin\System.Web.Mvc.dll
+C:\inetpub\wwwroot\API\bin\System.Web.Optimization.dll
+C:\inetpub\wwwroot\API\bin\System.Web.Razor.dll
+C:\inetpub\wwwroot\API\bin\System.Web.WebPages.Deployment.dll
+C:\inetpub\wwwroot\API\bin\System.Web.WebPages.dll
+C:\inetpub\wwwroot\API\bin\System.Web.WebPages.Razor.dll
+C:\inetpub\wwwroot\API\bin\WebGrease.dll
+C:\inetpub\wwwroot\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.AI.Web.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.AI.WindowsServer.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.ApplicationInsights.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\inetpub\wwwroot\API\bin\System.Web.Helpers.xml
+C:\inetpub\wwwroot\API\bin\System.Web.Http.xml
+C:\inetpub\wwwroot\API\bin\System.Web.Http.Cors.xml
+C:\inetpub\wwwroot\API\bin\System.Web.Http.Owin.xml
+C:\inetpub\wwwroot\API\bin\System.Web.Http.WebHost.xml
+C:\inetpub\wwwroot\API\bin\System.Web.Mvc.xml
+C:\inetpub\wwwroot\API\bin\System.Web.Razor.xml
+C:\inetpub\wwwroot\API\bin\System.Web.WebPages.xml
+C:\inetpub\wwwroot\API\bin\System.Web.WebPages.Deployment.xml
+C:\inetpub\wwwroot\API\bin\System.Web.WebPages.Razor.xml
+C:\inetpub\wwwroot\API\bin\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\API\bin\System.Net.Http.Formatting.xml
+C:\inetpub\wwwroot\API\bin\System.Web.Optimization.xml
+C:\inetpub\wwwroot\API\bin\Antlr3.Runtime.pdb
+C:\inetpub\wwwroot\API\bin\EntityFramework.xml
+C:\inetpub\wwwroot\API\bin\EntityFramework.SqlServer.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.Google.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\inetpub\wwwroot\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\inetpub\wwwroot\API\bin\ko\System.Web.Http.Cors.resources.dll
+C:\inetpub\wwwroot\API\obj\Debug\ViewPointAPI.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\API\obj\Debug\ViewPointAPI.dll
+C:\inetpub\wwwroot\API\obj\Debug\ViewPointAPI.pdb
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\ApplicationInsights.config
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\roslyn\csc.exe
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\roslyn\vbc.exe
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\roslyn\VBCSCompiler.exe
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\ViewPointAPI.dll.config
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\ViewPointAPI.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\ViewPointAPI.pdb
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.AI.Web.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\System.Web.Helpers.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\System.Web.Http.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\System.Web.Http.Cors.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\System.Web.Http.Owin.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\System.Web.Http.WebHost.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\System.Web.Mvc.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\System.Web.Razor.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\System.Web.WebPages.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\System.Web.WebPages.Razor.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Newtonsoft.Json.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\System.Net.Http.Formatting.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\System.Web.Optimization.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Antlr3.Runtime.pdb
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\EntityFramework.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\EntityFramework.SqlServer.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.Owin.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.Owin.Security.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\bin\ko\System.Web.Http.Cors.resources.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\obj\Debug\ViewPointAPI.csprojResolveAssemblyReference.cache
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\obj\Debug\ViewPointAPI.dll
+C:\Users\ssharma\Documents\Visual Studio 2015\Projects\Transit_build_1.1\API\obj\Debug\ViewPointAPI.pdb

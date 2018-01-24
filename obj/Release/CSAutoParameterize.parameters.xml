@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-ViewPointAPI-20161012014531.mdf;Initial Catalog=aspnet-ViewPointAPI-20161012014531;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ssharma\\documents\\visual\ studio\ 2015\\Projects\\ViewPointAPI\\ViewPointAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="viewPointDBConnection-Web.config Connection String" description="viewPointDBConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=dev-vpoin;Initial Catalog=Viewpoint;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ssharma\\documents\\visual\ studio\ 2015\\Projects\\ViewPointAPI\\ViewPointAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='viewPointDBConnection']/@connectionString" />
+  </parameter>
+  <parameter name="TransitDBConnection-Web.config Connection String" description="TransitDBConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=iea-sql2;Initial Catalog=TransitApp_dev;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\ssharma\\documents\\visual\ studio\ 2015\\Projects\\ViewPointAPI\\ViewPointAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TransitDBConnection']/@connectionString" />
+  </parameter>
+</parameters>
