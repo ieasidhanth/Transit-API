@@ -89,7 +89,7 @@ namespace ViewPointAPI
             using (SqlConnection viewpointDBConnection = new SqlConnection(WebConfigurationManager.ConnectionStrings["viewPointDBConnection"].ToString()))
             {
                 viewpointDBConnection.Open();
-                SqlDataAdapter adap1 = new SqlDataAdapter("select KeyID,VINNumber as SerialNo,a.Equipment As EquipmentID,a.[Description] As [Description],a.Job as Job,a.Location as Location,AttachToEquip,udPhysicalDate as PhysicalDate from Viewpoint.dbo.EMEM as a  where a.Department in ('15', '19') and a.EMCo = '53' and a.OwnershipStatus = 'O' and a.VINNumber is not null and a.Status='A'", viewpointDBConnection);
+                SqlDataAdapter adap1 = new SqlDataAdapter("select KeyID,VINNumber as SerialNo,a.Equipment As EquipmentID,a.[Description] As [Description],a.Job as Job,a.Location as Location,AttachToEquip,udPhysicalDate as PhysicalDate from Viewpoint.dbo.EMEM as a  where a.Department in ('15', '19', '16') and a.EMCo = '53' and a.OwnershipStatus = 'O' and a.VINNumber is not null and a.Status='A'", viewpointDBConnection);
                 adap1.Fill(dt);
                 viewpointDBConnection.Dispose();
             }
